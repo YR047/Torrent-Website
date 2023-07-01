@@ -1,7 +1,3 @@
-document.querySelector(".main_search_button")
-
-function myGeeks() {
-    document.querySelector(".main_search_button").onclick = function() {
+        function searchBtn() {
         console.log("Button Clicked");
-    }
-}
+    };
