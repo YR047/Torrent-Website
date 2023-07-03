@@ -150,7 +150,7 @@ img {
 
 .main_trending_post {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     margin-top: 2vh;
 }
 
@@ -182,7 +182,7 @@ img {
  }
 
  article img {
-    max-height: 200px;
+    max-height: 250px;
     width: 200px;
     border: 2px solid #a07eff9d;
  }
